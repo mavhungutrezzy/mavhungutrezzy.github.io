@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "Concourse";
+  src: url("../fonts/concourse.otf") format("opentype");
+}
+
+
+
+body {
+    font-family: "Concourse",sans-serif;
+    font-size: 18px;
+    font-weight: 300px;
+    line-height: 1.6;
+    color: #3c3c3c;
+    background-color: #fff;
+}
